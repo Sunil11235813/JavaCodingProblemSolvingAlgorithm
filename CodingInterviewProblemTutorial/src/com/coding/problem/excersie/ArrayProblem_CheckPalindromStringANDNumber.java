@@ -9,7 +9,7 @@ import java.util.Stack;
  * @author Sunil
  *
  */
-public class ArrayProblem2_CheckPalindromStringANDNumber {
+public class ArrayProblem_CheckPalindromStringANDNumber {
 
 	static boolean checkNumberPalindrom(int input) {
 		boolean flag = false;

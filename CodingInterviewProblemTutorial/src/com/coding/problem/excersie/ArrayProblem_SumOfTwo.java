@@ -7,7 +7,7 @@ package com.coding.problem.excersie;
  * @author Sunil
  *
  */
-public class ArrayProblem1_SumOfTwo {
+public class ArrayProblem_SumOfTwo {
 
 	/**
 	 * @param args
